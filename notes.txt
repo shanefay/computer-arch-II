@@ -1,0 +1,2 @@
+RISC1 - R25 is return address for functions
+considering R0 is a global variable, but can become 0, we use R1 to return values
